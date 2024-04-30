@@ -8,4 +8,4 @@ docker build . -t code-kata
 docker run code-kata
 ```
 
-Binary file is included in the repo and is built for ubuntu X64
+Binary file `cmd` is included in the repo and is built for ubuntu X64
